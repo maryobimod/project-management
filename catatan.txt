@@ -32,3 +32,4 @@ Project Setup
 
 10. Jalankan asset development
     npm run dev
+    php artisan serve
